@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d26015356d5823d1",
+        "id": "b69f12aaa9516f02",
         "type": "tabs",
         "children": [
           {
-            "id": "3800ee508f6ef67e",
+            "id": "481ea46300a7d184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSA.md",
+                "file": "IT Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSA"
+              "title": "IT Questions"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.50260543823242
   },
   "right": {
     "id": "dec9413971b7c4db",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSA.md",
+                "file": "IT Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MSA"
+              "title": "Backlinks for IT Questions"
             }
           },
           {
@@ -169,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3800ee508f6ef67e",
+  "active": "481ea46300a7d184",
   "lastOpenFiles": [
-    "Untitled.md",
-    "MSA.md"
+    "IT Questions.md",
+    "MSA.md",
+    "Untitled.md"
   ]
 }
