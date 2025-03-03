@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Questions.md",
+                "file": "IT1 Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IT Questions"
+              "title": "IT1 Questions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Questions.md",
+                "file": "IT1 Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IT Questions"
+              "title": "Backlinks for IT1 Questions"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "481ea46300a7d184",
   "lastOpenFiles": [
-    "IT Questions.md",
     "MSA.md",
+    "IT1 Questions.md",
     "Untitled.md"
   ]
 }
