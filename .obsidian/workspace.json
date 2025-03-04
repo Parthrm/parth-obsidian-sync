@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTNS.md",
+                "file": "CTNS/CTNS.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTNS/IT 1/RSA algorithm.md",
+                "file": "MSA/MSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA algorithm"
+              "title": "MSA"
             }
           },
           {
@@ -161,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MSA/MSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MSA"
             }
           },
           {
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficient Random Generator.md",
+                "file": "MSA/MSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Efficient Random Generator"
+              "title": "Outline of MSA"
             }
           }
         ]
@@ -238,13 +239,14 @@
   },
   "active": "b933977747f57b85",
   "lastOpenFiles": [
+    "MSA",
+    "CTNS/CTNS.md",
     "CTNS/IT 1/RSA algorithm.md",
     "Efficient Random Generator.md",
     "CTNS/IT 1/Digital Signature.md",
     "CTNS/IT 1/DES Algorithm.md",
     "CTNS/IT 1/Steganography and it's application.md",
     "CTNS/IT 1/Random Generator.md",
-    "CTNS.md",
     "CTNS/IT 1/Playfair Cipher.md",
     "CTNS/IT 1/One Time Pad.md",
     "CTNS/IT 1/Vignere Cipher.md",
@@ -253,14 +255,14 @@
     "CTNS/IT 1/Caesar Cipher.md",
     "test.py",
     "CTNS/IT 1/Introduction to Cryptography and its  application.md",
-    "Solved Question/IT1 Questions.md",
+    "MSA/Solved Question/IT1 Questions.md",
     "CTNS/IT 1/Basic Cryptography Techniques.md",
     "CTNS/IT 1",
     "CTNS",
-    "MSA.md",
-    "Solved Question/DBC, 27 - 02 - 2024.md",
-    "Solved Question/GEC - Jan_May2024 IT 1.md",
+    "MSA/MSA.md",
+    "MSA/Solved Question/DBC, 27 - 02 - 2024.md",
+    "MSA/Solved Question/GEC - Jan_May2024 IT 1.md",
     "IT1 Questions.md",
-    "Solved Question"
+    "MSA/Solved Question"
   ]
 }
