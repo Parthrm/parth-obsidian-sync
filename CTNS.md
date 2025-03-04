@@ -1,8 +1,8 @@
 CTNS Syllabus for IT1 
 1) [ ] [[Introduction to Cryptography and its  application]]
-2) [ ] [[Basic Cryptography Techniques]] 
-	1. [ ] [[Caesar Cipher ]]
-	2. [ ] [[Mono alphabetic Cipher ]]
+2) [x] [[Basic Cryptography Techniques]] 
+	1. [x] [[Caesar Cipher ]]
+	2. [x] [[Mono alphabetic Cipher ]]
 	3. [ ] [[Poly alpha Cipher ]]
 	4. [ ] [[Vignere Cipher ]]
 	5. [ ] [[One Time Pad]]
