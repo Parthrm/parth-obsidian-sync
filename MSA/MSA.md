@@ -22,3 +22,4 @@
 | **RAW (.raw, .cr2, .nef, .arw, etc.)** | Maximum image quality with full sensor data  | Requires specialized software to open/edit                |
 |                                        | Ideal for professional photography           | Large file size, needs conversion for sharing             |
 
+gargi is piss
