@@ -18,8 +18,8 @@ To generate the public and private keys, follow these steps:
 1. **Select two large prime numbers**:
     
     - Choose two distinct large prime numbers **p** and **q**.
-    - Example: p=61p = 61, q=53q = 53.
-2. **Compute n (modulus)**:
+    - Example: p=61, q=53.
+2. **Compute n (modulus)**:ē
     
     - Multiply the two prime numbers: `n=p×q`
     - Example: `n=61×53=3233`

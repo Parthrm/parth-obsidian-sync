@@ -161,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTNS/IT 1/RSA algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RSA algorithm"
+              "title": "Backlinks"
             }
           },
           {
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTNS/IT 1/RSA algorithm.md",
+                "file": "Efficient Random Generator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RSA algorithm"
+              "title": "Outline of Efficient Random Generator"
             }
           }
         ]
@@ -237,14 +236,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "343eec527aaaa274",
+  "active": "b933977747f57b85",
   "lastOpenFiles": [
+    "CTNS/IT 1/RSA algorithm.md",
+    "Efficient Random Generator.md",
     "CTNS/IT 1/Digital Signature.md",
     "CTNS/IT 1/DES Algorithm.md",
     "CTNS/IT 1/Steganography and it's application.md",
     "CTNS/IT 1/Random Generator.md",
     "CTNS.md",
-    "CTNS/IT 1/RSA algorithm.md",
     "CTNS/IT 1/Playfair Cipher.md",
     "CTNS/IT 1/One Time Pad.md",
     "CTNS/IT 1/Vignere Cipher.md",
