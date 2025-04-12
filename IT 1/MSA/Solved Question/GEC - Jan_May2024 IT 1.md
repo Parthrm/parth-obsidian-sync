@@ -1,3 +1,4 @@
+#it1 
 #### 1. Define the following terms WRT multimedia systems
 1. **Multimedia**
 	-  The combination of text, images, audio, video, and animations to present information interactively.

@@ -1,3 +1,4 @@
+#it1 
 Features of Cryptography
 - **Confidentiality:** Ensures data secrecy.
 - **Integrity:** Protects data from unauthorized modification.

@@ -1,3 +1,4 @@
+#it1 
 CTNS Syllabus for IT1 
 1) [ ] [[Introduction to Cryptography and its  application]]
 2) [x] [[Basic Cryptography Techniques]] 

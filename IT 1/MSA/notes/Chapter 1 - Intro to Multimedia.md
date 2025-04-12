@@ -1,3 +1,4 @@
+#it1
 #### Definition
 Multimedia refers to the integration of multiple forms of media such as text, graphics, images, audio, video, and animations to present information in an interactive and engaging manner. It enhances communication and user experience by combining different types of content.
 
@@ -84,10 +85,3 @@ A Multimedia Project is identified as Non-Linear when:
 | **Education and Training Products** | Multimedia products designed for educational purposes.                                                                                                                          | N/A                                                                                                                                                                                                                                                                                                                                                                                                               | N/A                                                                                                                  |
 | **Kiosk Products**                  | A product stationed at public places allowing users to find information interactively or conduct transactions.                                                                  | - Limited target users and usage.<br>- User-friendly and easy to use.<br>- Fast response.                                                                                                                                                                                                                                                                                                                         | - Instant Photo Booth<br>- Banking Kiosk (money deposit, cheque)<br>- University Information Kiosk                   |
 | **Entertainment & Games**           | Most popular multimedia products, often shipped as interactive CDs/DVDs.                                                                                                        | - Immersive experience.<br>- Requires constant feedback and interaction.<br>- Challenging and intriguing for users.<br>- Online play for multiple users.                                                                                                                                                                                                                                                          | N/A                                                                                                                  |
-
-
-
-
-
-
-

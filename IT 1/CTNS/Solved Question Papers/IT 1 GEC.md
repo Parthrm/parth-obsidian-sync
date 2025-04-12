@@ -1,4 +1,4 @@
-
+#it1 
 1. Explain Round Function or F Function of DES algorithm with neat diagram. How to improve the performance of DES algorithm? Discuss. (5 marks)
 	**Working of the F Function in DES**
 	
