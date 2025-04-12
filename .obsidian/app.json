@@ -10,6 +10,10 @@
     "downscalePercent": 100
   },
   "newFileLocation": "current",
+<<<<<<< HEAD
   "promptDelete": false,
   "defaultViewMode": "source"
+=======
+  "promptDelete": false
+>>>>>>> 1b53303b3e28e80baff345e18a451a7af9ca336c
 }
