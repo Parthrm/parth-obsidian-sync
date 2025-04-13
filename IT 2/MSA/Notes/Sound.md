@@ -19,3 +19,4 @@
 
 ==**Clipping:**== Amplitude greater than the intervals available are clipped off from the top and bottom of the wave.
 
+# Making Digital Audio Files
