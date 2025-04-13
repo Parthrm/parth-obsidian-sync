@@ -11,10 +11,14 @@
             "id": "570cbda31042b83b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IT 2/MSA/Notes/Sound.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sound"
             }
           }
         ]
@@ -141,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -151,6 +156,7 @@
   },
   "active": "570cbda31042b83b",
   "lastOpenFiles": [
+    "IT 2/MSA/Index - MSA.md",
     "Untitled",
     "IT 1/MSA/notes/Chapter 7 - Making Multimedia.md",
     "IT 1/MSA/notes/Chapter 3 - Image.md",
@@ -185,7 +191,6 @@
     "MSA/notes/Chapter 3 - Image.md",
     "MSA/notes/Chapter 1 - Intro to Multimedia.md",
     "CTNS/Solved Question Papers",
-    "MSA/Solved Question",
-    "MSA"
+    "MSA/Solved Question"
   ]
 }
