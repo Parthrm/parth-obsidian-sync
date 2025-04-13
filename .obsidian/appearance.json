@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "MCL Multi Column"
-  ]
+  ],
+  "theme": "obsidian"
 }

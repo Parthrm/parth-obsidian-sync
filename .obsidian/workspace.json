@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "dec9413971b7c4db",
@@ -227,6 +226,8 @@
   "lastOpenFiles": [
     "IT 2/MSA/Content/sound.pdf",
     "IT 2/MSA/Notes/Sound.md",
+    "Images",
+    "Images/Pasted image 20250413170137.png",
     "IT 2/MSA/Index - MSA.md",
     "Templates/Multi-column.md",
     "Templates/Definition.md",
@@ -258,7 +259,6 @@
     "IT 2/MSA/Content/the_internet_and _multimedia.pdf",
     "IT 2/MSA/Notes",
     "IT 2/MSA/Content/planning_and_costing.pdf",
-    "IT 2/CTNS/Content/key management chapter.pdf",
-    "IT 2/MSA/Content"
+    "IT 2/CTNS/Content/key management chapter.pdf"
   ]
 }
