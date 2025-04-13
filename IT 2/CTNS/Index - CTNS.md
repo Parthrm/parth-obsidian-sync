@@ -21,4 +21,9 @@ Table of Contents
 | [[Wireless Network Security]]       | Wireless Security                                      | [[Wireless Network Security.pdf#page=2\|Wireless Network Security, page 2]]   | ❌      |
 |                                     | IEEE 802.11 wireless LAN overview                      | [[Wireless Network Security.pdf#page=9\|Wireless Network Security, page 9]]   | ❌      |
 |                                     | IEEE 802.11i Wireless LAN Security                     | [[Wireless Network Security.pdf#page=15\|Wireless Network Security, page 15]] | ❌      |
+|                                     |                                                        |                                                                               |        |
+|                                     | SHA                                                    | [[SHA.pdf]]                                                                   | ❌      |
+|                                     | MD5                                                    |                                                                               | ❌      |
+|                                     | Diffie Helman key                                      | [[Diffie_Helman_key.pdf]]                                                     | ❌      |
+|                                     | Digital Signature                                      | [[Digital_Signatues.pdf]]                                                     | ❌      |
 
