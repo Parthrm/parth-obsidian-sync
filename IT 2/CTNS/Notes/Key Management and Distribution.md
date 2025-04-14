@@ -355,3 +355,73 @@ Certificates can be revoked before expiry for reasons like:
     - Includes serial number & revocation date.
 - Users can check CRLs to ensure a certificate hasn’t been revoked.
 - To reduce lookup delays, users may **cache CRLs locally**.
+
+---
+
+### 🔐 **KERBEROS**
+
+### ✅ Definition:
+**Kerberos** is a secure network authentication protocol that uses secret-key cryptography to authenticate client-server applications. It allows nodes to prove their identity over non-secure networks in a secure manner.
+### 🧠 Explanation:
+Kerberos works on the basis of “tickets” and a **trusted third party** called the **Key Distribution Center (KDC)**. It ensures that passwords are never sent over the network. The KDC issues time-limited tickets that help clients authenticate themselves to services without re-entering passwords.
+### 📜 Algorithm / Working:
+1. **Login Request**
+    - User logs into client and requests access to services.
+    - Client sends user ID to **Authentication Server (AS)**.
+2. **AS Response (Ticket Granting Ticket - TGT)**
+    - AS checks database and sends:
+        - A **TGT** (encrypted with the Ticket Granting Server's key).
+        - A **session key** encrypted with the user's password-derived key.
+3. **Accessing Ticket Granting Server (TGS)**
+    - Client decrypts the session key using the user’s password.
+    - Uses the session key to request a service ticket from TGS, sending the TGT and an **authenticator**.
+4. **TGS Response**
+    - TGS validates the request and sends:
+        - A **service ticket** encrypted with the service server’s key.
+        - A new **session key** for the client-server communication.
+5. **Accessing the Actual Service**
+    - Client sends the service ticket and an authenticator to the **service server**.
+    - Server responds with confirmation (optional) and allows access.
+### 🏆 Advantages:
+- ✅ Passwords are never transmitted over the network.
+- ✅ Mutual authentication: both client and server validate each other.
+- ✅ Strong cryptographic protection (uses symmetric encryption).
+- ✅ Protects against replay attacks using timestamps and authenticators.
+### ❌ Disadvantages:
+- ❌ All systems must be time-synchronized.
+- ❌ If the KDC is compromised, the entire system's security is broken.
+- ❌ Initial setup and configuration are complex.
+- ❌ Does not work well for open or public networks without trust.
+### ⚠️ Points of Failure:
+1. **KDC Compromise** – Entire authentication ecosystem becomes vulnerable.
+2. **Clock Skew** – Inconsistent time between systems can cause ticket rejections.
+3. **Ticket Expiry** – Users may be locked out due to expired tickets.
+4. **Password Guessing** – Weak user passwords can lead to decryption of session keys.
+## 🔁 Version Comparison: Kerberos v4 vs v5
+
+| Feature                        | **Kerberos v4**                      | **Kerberos v5**                               |
+| ------------------------------ | ------------------------------------ | --------------------------------------------- |
+| **Encryption Algorithm**       | DES only                             | Multiple algorithms (RSA, AES, etc.)          |
+| **Ticket Format**              | Fixed structure                      | Flexible and extensible format                |
+| **Cross-realm Authentication** | Limited                              | Fully supported                               |
+| **Authentication Forwarding**  | Not supported                        | Supported                                     |
+| **Ticket Lifetime**            | Fixed                                | Configurable and renewable tickets            |
+| **Protocol Support**           | Only IPv4                            | IPv4, IPv6, and multiple network protocols    |
+| **Compatibility**              | Not backward compatible              | Backward compatible with v4                   |
+| **Checksum/Integrity**         | Weak integrity checking              | Strong integrity via checksums and encryption |
+| **Standardization**            | MIT implementation, not standardized | Defined by RFC 1510 (standardized)            |
+### ✅ Kerberos v4 – Pros:
+- Simpler and lightweight
+- Suitable for small trusted networks
+### ❌ Kerberos v4 – Cons:
+- Security flaws (e.g., DES only)
+- No flexibility in cryptographic methods
+- Poor interoperability and cross-realm support
+### ✅ Kerberos v5 – Pros:
+- Supports strong encryption and multiple algorithms
+- Better support for modern networks
+- Improved security and ticket handling
+- Extensible and future-proof
+### ❌ Kerberos v5 – Cons:
+- More complex to implement
+- Slightly heavier computationally

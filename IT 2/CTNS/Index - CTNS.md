@@ -24,6 +24,6 @@ Table of Contents
 |                                     |                                                        |                                                                               |        |
 |                                     | SHA                                                    | [[SHA.pdf]]                                                                   | ❌      |
 |                                     | MD5                                                    |                                                                               | ❌      |
-| [[Diffie Helman key]]               | Diffie Helman key                                      | [[Diffie_Helman_key.pdf]]                                                     | ❌      |
-|                                     | Digital Signature                                      | [[Digital_Signatues.pdf]]                                                     | ❌      |
+| [[Diffie Helman key]]               | Diffie Helman key                                      | [[Diffie_Helman_key.pdf]]                                                     | ✅      |
+| [[Digital Signature]]               | Digital Signature                                      | [[Digital_Signatues.pdf]]                                                     | ❌      |
 
