@@ -4,10 +4,10 @@ Table of contents
 
 | Topic                          | Sub-topic                            | Textbook                                                                            | Status |
 | ------------------------------ | ------------------------------------ | ----------------------------------------------------------------------------------- | ------ |
-| [[Sound]]                      | Digital Audio                        | [[sound.pdf#page=3\|sound, page 3]]                                                 | ❌      |
-|                                | MIDI Audio                           | [[sound.pdf#page=10\|sound, page 10]]                                               | ❌      |
-|                                | MIDI vs Digital Audio                | [[sound.pdf#page=15\|sound, page 15]]                                               | ❌      |
-|                                | Multimedia System Sounds             | [[sound.pdf#page=17\|sound, page 17]]                                               | ❌      |
+| [[Sound]]                      | Digital Audio                        | [[sound.pdf#page=3\|sound, page 3]]                                                 | ✅      |
+|                                | MIDI Audio                           | [[sound.pdf#page=10\|sound, page 10]]                                               | ✅      |
+|                                | MIDI vs Digital Audio                | [[sound.pdf#page=15\|sound, page 15]]                                               | ✅      |
+|                                | Multimedia System Sounds             | [[sound.pdf#page=17\|sound, page 17]]                                               | ✅      |
 |                                | Audio File Formats                   | [[sound.pdf#page=18\|sound, page 18]]                                               | ❌      |
 |                                | Vaughan's Law of Multimedia Minimums | [[sound.pdf#page=20\|sound, page 20]]                                               | ❌      |
 |                                | Adding Sound to Project              | [[sound.pdf#page=24\|sound, page 24]]                                               | ❌      |

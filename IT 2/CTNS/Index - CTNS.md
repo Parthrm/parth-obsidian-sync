@@ -3,9 +3,9 @@ Table of Contents
 
 | Topic                               | Sub-topic                                              | Textbook                                                                      | Status |
 | ----------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------- | ------ |
-| [[Key Management and Distribution]] | Symmetric Key Distribution using Symmetric Encryption  | [[key management chapter.pdf#page=2\|key management chapter, page 2]]         | ❌      |
-|                                     | Symmetric Key Distribution using Asymmetric Encryption | [[key management chapter.pdf#page=11\|key management chapter, page 11]]       | ❌      |
-|                                     | Distribution of Public Keys                            | [[key management chapter.pdf#page=14\|key management chapter, page 14]]       | ❌      |
+| [[Key Management and Distribution]] | Symmetric Key Distribution using Symmetric Encryption  | [[key management chapter.pdf#page=2\|key management chapter, page 2]]         | ✅      |
+|                                     | Symmetric Key Distribution using Asymmetric Encryption | [[key management chapter.pdf#page=11\|key management chapter, page 11]]       | ✅      |
+|                                     | Distribution of Public Keys                            | [[key management chapter.pdf#page=14\|key management chapter, page 14]]       | ✅      |
 |                                     | X.509 Certificates                                     | [[key management chapter.pdf#page=19\|key management chapter, page 19]]       | ❌      |
 |                                     | Public key infrastructure                              | [[key management chapter.pdf#page=27\|key management chapter, page 27]]       | ❌      |
 |                                     | Kerberos                                               | [[kerberos.pdf]]                                                              | ❌      |
@@ -24,6 +24,6 @@ Table of Contents
 |                                     |                                                        |                                                                               |        |
 |                                     | SHA                                                    | [[SHA.pdf]]                                                                   | ❌      |
 |                                     | MD5                                                    |                                                                               | ❌      |
-|                                     | Diffie Helman key                                      | [[Diffie_Helman_key.pdf]]                                                     | ❌      |
+| [[Diffie Helman key]]               | Diffie Helman key                                      | [[Diffie_Helman_key.pdf]]                                                     | ❌      |
 |                                     | Digital Signature                                      | [[Digital_Signatues.pdf]]                                                     | ❌      |
 

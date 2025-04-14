@@ -150,4 +150,94 @@ C = 1 for Mono, 2 for Stereo
 
 # MIDI Audio (Musical Instrument Digital Interface)
 
-this is parth
+### 🧩 **What is MIDI?**
+
+- Developed: **1980s**
+- **Purpose**: Communication protocol for **electronic instruments & computers**
+- Works via **cables** and **digital messages**
+
+> ⚠️ **MIDI ≠ Sound**  
+> It’s a **shorthand** for music – not the actual audio.
+
+🎯 **Analogy**:
+
+> _MIDI = Vector graphics_  
+> _Digital Audio = Bitmap image_
+
+### 🎹 **How MIDI Works**
+
+- **Captures** musical actions:
+    - Which note played
+    - How hard it was hit
+    - How long it lasted
+    - Volume dynamics
+    - Instrument used
+- These are **time-stamped commands** that a **MIDI playback device** interprets.
+
+### ⚙️ **What You Need to Create MIDI Music**
+- 🎼 **Notation Software** – Compose sheet music
+- ⏱️ **Sequencer Software** – Record, play, and edit sequences
+- 🎛️ **Sound Synthesizer** – Built into most devices
+- 🎹 **MIDI Keyboard** – Helps record actual notes
+
+### 🧠 **Benefits of MIDI**
+- ✨ **Creative Freedom**: Compose from scratch
+- ✂️ **Easy Edits**: Change instrument with a number (0–127 via General MIDI system)
+- 💾 **Small File Size**: Light on storage, heavy on expression
+- 🎯 **Precision**: Quantization fixes off-beat notes
+- 🧻 **Printable**: Create printable sheet music
+
+### ⚠️ **Limitations of MIDI**
+
+- 🎧 **Device Dependent**: Playback depends on user’s hardware
+- 🥴 **Unpredictable Sound**: Different devices = different results
+- 🚫 **Not Ideal for Final Delivery**: Use MIDI for **production**, then convert to **digital audio** for consistent playback
+
+### 🎷 **MIDI Envelopes – The Feel of the Note**
+- **Attack** – How quickly sound volume rises
+- **Sustain** – How long it lasts
+- **Decay** – How fast it fades out
+
+### 💼 **Working with MIDI in Multimedia Projects**
+- 🔄 Change a piano to a saxophone? Just change the instrument ID
+- 💼 Hire a MIDI composer or collaborate with new talent
+- 🔁 Once done, **convert MIDI to digital audio** for reliable output
+
+---
+
+# MIDI vs Digital Audio
+
+| **Aspect**                       | **MIDI**                                                                                      | **Digital Audio**                                                                       |
+| -------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Definition**                   | Shorthand representation of music (score, notes, instruments).                                | Actual recording of sound in the form of sampled audio data.                            |
+| **Data Type**                    | Structured, numeric music instructions.                                                       | Continuous waveform sampled at discrete intervals.                                      |
+| **Size**                         | Very compact (200 to 1,000 times smaller than digital audio).                                 | Large file size, especially at CD-quality.                                              |
+| **Device Dependency**            | Device dependent—sound depends on the MIDI synthesizer used.                                  | Device independent—sound playback is consistent across devices.                         |
+| **Editing**                      | Easily editable down to individual notes; very flexible.                                      | Hard to edit—requires audio editing tools and is less precise.                          |
+| **Conversion to Sheet Music**    | Can be converted to and from musical notation easily.                                         | Cannot be converted directly to sheet music.                                            |
+| **Instrument Change**            | Instruments can be changed by altering values.                                                | Changing instrument requires re-recording.                                              |
+| **Playback Consistency**         | Playback may vary depending on hardware.                                                      | Playback remains mostly consistent regardless of system.                                |
+| **Use in Web Pages**             | Loads and plays quickly due to small size.                                                    | Slower to load and stream due to file size.                                             |
+| **Tempo Control**                | Can change tempo without affecting pitch.                                                     | Changing tempo usually affects pitch and quality.                                       |
+| **Quality Reliance**             | Depends on quality of MIDI sound source.                                                      | Quality depends on recording and sample rate.                                           |
+| **Speech Playback**              | Cannot easily be used for spoken dialog.                                                      | Can easily include spoken dialog and other complex audio.                               |
+| **Best Used When**               | - Low memory/bandwidth- High-quality MIDI sound- Full control over playback device- No speech | - Consistent playback quality required- Need to include spoken words or natural sounds. |
+| **Analogy to Graphics**          | Like **vector graphics** (instruction-based).                                                 | Like **bitmap graphics** (sampled copy of the original).                                |
+| **Tools Required**               | MIDI sequencer, notation software, synthesizer, optional MIDI keyboard.                       | Audio recorder or editing software.                                                     |
+| **Flexibility in Composition**   | Highly flexible for composing and editing.                                                    | Less flexible for composition once recorded.                                            |
+| **Usage in Multimedia Projects** | Excellent for production and editing phase.                                                   | Preferred for delivery due to playback consistency.                                     |
+
+---
+
+# Multimedia System Sounds
+
+Every computer comes with basic system sounds that play during certain events, such as startup, errors, notifications, or button clicks. These sounds are available as soon as the operating system is installed. In Windows, these system sounds are stored as `.wav` files in the `Windows\Media` folder and include familiar tones like `ding.wav`, `tada.wav`, and `notify.wav`. Users can manage and customize these sounds through the Sound Control Panel, where they can assign different audio cues to specific system events or even create themed sound schemes to suit different moods. Additionally, custom `.wav` files can be added to the Media folder and set as system sounds. On macOS, system sound customization is more limited—you can only change the alert sound. To do so, users place their custom `.aif` file into the `~/System/Library/Sounds` directory and then select it in the Sound preferences pane.
+
+---
+
+# Audio File Formats
+
+
+---
+
+# Vaughan's Law of Multimedia Minimums
