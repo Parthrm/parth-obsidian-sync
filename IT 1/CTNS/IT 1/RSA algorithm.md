@@ -58,11 +58,8 @@ To decrypt the ciphertext **C**, use the private key (d, n):
 ## **Advantages of RSA**
 
 ✅ **High Security**: RSA is secure due to the difficulty of **factoring large prime numbers**.
-
 ✅ **Public Key Encryption**: No need to share a secret key before communication.
-
 ✅ **Digital Signatures**: RSA allows **authentication** through digital signatures.
-
 ✅ **Scalability**: Can be used for secure communications across networks, including SSL/TLS.
 
 ---
@@ -70,9 +67,7 @@ To decrypt the ciphertext **C**, use the private key (d, n):
 ## **Disadvantages of RSA**
 
 ❌ **Slow for Large Data**: RSA is computationally expensive, making it slower than symmetric encryption (AES).
-
 ❌ **Key Length**: To remain secure, RSA requires large key sizes (2048-bit or more), increasing computational overhead.
-
 ❌ **Vulnerable to Quantum Computing**: **Shor’s Algorithm** (for quantum computers) could break RSA encryption in the future.
 
 ---

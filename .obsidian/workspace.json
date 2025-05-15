@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT 3/CTNS/Syllabus - CTNS.md",
+                "file": "IT 2/CTNS/Notes/Key Management and Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus - CTNS"
+              "title": "Key Management and Distribution"
+            }
+          },
+          {
+            "id": "9043f394cf990d58",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IT 3/CTNS/Cryptography-and-network-security-principles-and-practice.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Cryptography-and-network-security-principles-and-practice"
             }
           },
           {
@@ -27,15 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT 3/CTNS/Notes/Block Cipher Operation/6 - Counter Mode.md",
-                "mode": "source",
+                "file": "IT 2/CTNS/Notes/Key Management and Distribution.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Counter Mode"
+              "title": "Key Management and Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +198,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a401e70ffd1630d5",
+  "active": "9043f394cf990d58",
   "lastOpenFiles": [
+    "IT 2/CTNS/Notes/Key Management and Distribution.md",
+    "IT 3/CTNS/Syllabus - CTNS.md",
+    "IT 2/CTNS/Index - CTNS.md",
+    "IT 3/CTNS/Cryptography-and-network-security-principles-and-practice.pdf",
+    "IT 1/CTNS/IT 1/RSA algorithm.md",
+    "IT 3/CTNS/Cryptography and Network Security Principles and Practice (6th Edition) (William Stallings).pdf",
     "IT 3/CTNS/Notes/Block Cipher Operation/6 - Counter Mode.md",
     "Images/Pasted image 20250515014446.png",
     "IT 3/CTNS/Notes/Block Cipher Operation/5 - Output Feedback Mode.md",
     "Images/Pasted image 20250515000811.png",
-    "IT 3/CTNS/Syllabus - CTNS.md",
     "IT 3/CTNS/Notes/Block Cipher Operation/4 - Cipher Feedback Mode.md",
     "Images/Pasted image 20250514194046.png",
     "Images/Pasted image 20250514225910.png",
@@ -214,12 +232,8 @@
     "IT 3/CTNS/Notes",
     "Templates/Definition.md",
     "IT 3/MSA/Index - MSA.md",
-    "IT 2/MSA/Content/the_internet_and _multimedia.pdf",
-    "IT 2/MSA/Content/planning_and_costing.pdf",
     "IT 2/MSA/Index - MSA.md",
-    "IT 2/CTNS/Index - CTNS.md",
     "IT 2/CTNS/Notes/Diffie Helman key.md",
-    "IT 2/CTNS/Notes/Key Management and Distribution.md",
     "Images/Pasted image 20250414233726.png",
     "IT 2/CTNS/Notes/Transport Level Security.md",
     "Images/Pasted image 20250414183027.png",
@@ -230,7 +244,6 @@
     "2025-04-13.md",
     "Templates/Multi-column.md",
     "IT 2/CTNS/Notes/Electronic Mail Security.md",
-    "IT 2/MSA/Notes/The Internet of Multimedia.md",
-    "IT 1/MSA/notes/Chapter 7 - Making Multimedia.md"
+    "IT 2/MSA/Notes/The Internet of Multimedia.md"
   ]
 }
