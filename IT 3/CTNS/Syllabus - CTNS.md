@@ -1,23 +1,23 @@
 
 ### Unit 2
 - [ ] Block Cipher Operation: 
-	- [ ] Multiple Encryption and Triple DES 
-	- [ ] Electronic Code Book 
-	- [ ] Cipher Block Chaining Mode 
-	- [ ] Cipher Feedback Mode 
-	- [ ] Output Feedback Mode 
-	- [ ] Counter Mode 
+	- [x] Multiple Encryption and Triple DES 
+	- [x] Electronic Code Book 
+	- [x] Cipher Block Chaining Mode 
+	- [x] Cipher Feedback Mode 
+	- [x] Output Feedback Mode 
+	- [x] Counter Mode 
 - [ ] Stream Cipher 
 	- [ ] RC4 
 - [ ] Public Key Cryptography: 
 	- [ ] Principles of Public-Key Cryptosystems 
-	- [ ] The RSA Algorithm 
+	- [x] The RSA Algorithm 
 - [ ] Other Public key CryptoSystems: 
 	- [ ] Diffie-Hellman Key Exchange 
 	- [ ] Elgamal Cryptographic System 
 ### Unit 3
 - [ ] Cryptographic Hash Functions: 
-	- [ ] Applications of CHF 
+	- [x] Applications of CHF 
 	- [ ] Two Simple Hash Functions 
 	- [ ] Requirements and Security 
 	- [ ] Secure Hash Algorithm (SHA-512) 
@@ -28,17 +28,17 @@
 	- [ ] Security of MACs 
 	- [ ] MACs based on Hash Functions (HMAC) 
 - [ ] Digital Signatures: 
-	- [ ] Digital Signatures 
+	- [x] Digital Signatures 
 	- [ ] Elgamal Digital Signature Scheme 
 	- [ ] NIST Digital Signature Algorithm 
 ### Unit 4
 - [ ] Key Management and Distribution: 
-	- [ ] Symmetric Key Distribution using Symmetric Encryption 
-	- [ ] Symmetric Key Distribution using Asymmetric Encryption 
-	- [ ] Distribution of Public Keys 
-	- [ ] X 509 Certificates 
+	- [x] Symmetric Key Distribution using Symmetric Encryption 
+	- [x] Symmetric Key Distribution using Asymmetric Encryption 
+	- [x] Distribution of Public Keys 
+	- [x] X 509 Certificates 
 	- [ ] Public key infrastructure 
-	- [ ] Kerberos 
+	- [x] Kerberos 
 - [ ] Transport Level Security: 
 	- [ ] Web Security Considerations 
 	- [ ] Secure Socket layer 
