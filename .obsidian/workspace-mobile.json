@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "IT 2/MSA/Notes/Sound.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -156,14 +156,20 @@
   },
   "active": "570cbda31042b83b",
   "lastOpenFiles": [
+    "IT 2/MSA/Content/the_internet_and _multimedia.pdf",
     "IT 2/MSA/Index - MSA.md",
+    "IT 2/MSA/Content/planning_and_costing.pdf",
+    "IT 2/CTNS/Index - CTNS.md",
+    "IT 2/CTNS/Notes/Diffie Helman key.md",
+    "IT 2/CTNS/Content/Digital_Signatues.pdf",
+    "IT 2/CTNS/Content/SHA.pdf",
+    "IT 2/CTNS/Content/Electronic_Mail_Security.pdf",
+    "IT 2/MSA/Notes/Sound.md",
     "IT 2/MSA/Notes/The Internet of Multimedia.md",
     "IT 2/MSA/Notes/Planning and Costing.md",
-    "IT 2/MSA/Notes/Sound.md",
     "Images/Pasted image 20250414233726.png",
     "Images/Pasted image 20250414183027.png",
     "Images/Pasted image 20250414182900.png",
-    "IT 2/CTNS/Notes/Diffie Helman key.md",
     "Untitled",
     "IT 1/MSA/notes/Chapter 7 - Making Multimedia.md",
     "IT 1/MSA/notes/Chapter 3 - Image.md",
@@ -188,12 +194,6 @@
     "IT 1/CTNS/IT 1/Introduction to Cryptography and its  application.md",
     "IT 1/CTNS/IT 1/Digital Signature.md",
     "IT 1/CTNS/IT 1/DES Algorithm.md",
-    "IT 1/CTNS/IT 1/Caesar Cipher.md",
-    "IT 1/CTNS/IT 1/Basic Cryptography Techniques.md",
-    "IT 1/CTNS/IT 1",
-    "IT 1/CTNS",
-    "IT 1",
-    "CTNS/Solved Question Papers",
-    "MSA/Solved Question"
+    "IT 1/CTNS/IT 1"
   ]
 }
