@@ -1,5 +1,6 @@
 [
   "github-sync",
   "obsidian-icon-shortcodes",
-  "templater-obsidian"
+  "templater-obsidian",
+  "remove-newlines"
 ]
