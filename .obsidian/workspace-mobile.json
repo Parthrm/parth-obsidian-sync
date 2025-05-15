@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT 2/MSA/Notes/Sound.md",
-                "mode": "source",
+                "file": "IT 3/CTNS/Notes/Block Cipher Operation/6 - Counter Mode.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sound"
+              "title": "6 - Counter Mode"
+            }
+          },
+          {
+            "id": "ce6ba6e4d266c404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT 2/CTNS/Notes/Key Management and Distribution.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Management and Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MSA/notes/Chapter 3 - Image.md",
+            "file": "IT 3/CTNS/Syllabus - CTNS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MSA.md",
+            "file": "IT 3/CTNS/Syllabus - CTNS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MSA.md",
+            "file": "IT 3/CTNS/Syllabus - CTNS.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,7 +156,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,46 +169,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "570cbda31042b83b",
+  "active": "8f2ad44932d169e1",
   "lastOpenFiles": [
+    "IT 2/CTNS/Notes/Electronic Mail Security.md",
+    "IT 2/CTNS/Notes/Diffie Helman key.md",
+    "IT 3/CTNS/Syllabus - CTNS.md",
+    "IT 3/CTNS/Papers/BE1431.pdf",
+    "IT 3/CTNS/Notes/Block Cipher Operation/6 - Counter Mode.md",
+    "IT 3/CTNS/Notes/Block Cipher Operation/5 - Output Feedback Mode.md",
+    "IT 3/CTNS/Notes/Block Cipher Operation/4 - Cipher Feedback Mode.md",
+    "IT 3/CTNS/Notes/Block Cipher Operation/3 - Cipher Block Chaining Mode.md",
+    "IT 3/CTNS/Notes/Block Cipher Operation/2 - Electronic Code Book.md",
+    "IT 3/CTNS/Notes/Block Cipher Operation/1 - Multiple Encryption and Triple DES.md",
+    "IT 2/MSA/Notes/Sound.md",
+    "Templates/Topic.md",
+    "Images/Pasted image 20250515014446.png",
+    "Images/Pasted image 20250515000811.png",
+    "Images/Pasted image 20250514225910.png",
+    "Images/Pasted image 20250514194046.png",
+    "Images/Pasted image 20250514192903.png",
+    "Images/Pasted image 20250514115216.png",
+    "IT 3/CTNS/Papers/CE810.pdf",
+    "IT 3/CTNS/Papers/BE1431-1.pdf",
+    "IT 3/CTNS/Notes/Block Cipher Operation",
+    "IT 3/MSA/Index - MSA.md",
+    "IT 3/CTNS/Papers",
+    "IT 3/CTNS/Notes",
+    "IT 3/MSA",
+    "IT 3/CTNS",
+    "IT 3",
     "IT 2/MSA/Content/the_internet_and _multimedia.pdf",
     "IT 2/MSA/Index - MSA.md",
-    "IT 2/MSA/Content/planning_and_costing.pdf",
     "IT 2/CTNS/Index - CTNS.md",
-    "IT 2/CTNS/Notes/Diffie Helman key.md",
-    "IT 2/CTNS/Content/Digital_Signatues.pdf",
-    "IT 2/CTNS/Content/SHA.pdf",
-    "IT 2/CTNS/Content/Electronic_Mail_Security.pdf",
-    "IT 2/MSA/Notes/Sound.md",
     "IT 2/MSA/Notes/The Internet of Multimedia.md",
     "IT 2/MSA/Notes/Planning and Costing.md",
     "Images/Pasted image 20250414233726.png",
     "Images/Pasted image 20250414183027.png",
     "Images/Pasted image 20250414182900.png",
-    "Untitled",
     "IT 1/MSA/notes/Chapter 7 - Making Multimedia.md",
     "IT 1/MSA/notes/Chapter 3 - Image.md",
     "IT 1/MSA/notes/Chapter 1 - Intro to Multimedia.md",
     "IT 1/MSA/Solved Question/IT1 Questions.md",
     "IT 1/MSA/Solved Question/GEC - Jan_May2024 IT 1.md",
     "IT 1/MSA/Solved Question/DBC, 27 - 02 - 2024.md",
-    "IT 1/MSA/notes",
-    "IT 1/MSA/Solved Question",
     "IT 1/MSA/MSA.md",
-    "IT 1/MSA",
     "IT 1/CTNS/Solved Question Papers/IT 1 GEC.md",
-    "IT 1/CTNS/Solved Question Papers",
     "IT 1/CTNS/IT 1/Vignere Cipher.md",
-    "IT 1/CTNS/IT 1/Steganography and it's application.md",
-    "IT 1/CTNS/IT 1/Random Generator.md",
-    "IT 1/CTNS/IT 1/RSA algorithm.md",
-    "IT 1/CTNS/IT 1/Poly alpha Cipher.md",
-    "IT 1/CTNS/IT 1/Playfair Cipher.md",
-    "IT 1/CTNS/IT 1/One Time Pad.md",
-    "IT 1/CTNS/IT 1/Mono alphabetic Cipher.md",
-    "IT 1/CTNS/IT 1/Introduction to Cryptography and its  application.md",
-    "IT 1/CTNS/IT 1/Digital Signature.md",
-    "IT 1/CTNS/IT 1/DES Algorithm.md",
-    "IT 1/CTNS/IT 1"
+    "IT 1/CTNS/IT 1/Steganography and it's application.md"
   ]
 }
