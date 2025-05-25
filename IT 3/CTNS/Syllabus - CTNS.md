@@ -28,7 +28,7 @@
 	- [ ] Security of MACs 
 	- [ ] MACs based on Hash Functions (HMAC) 
 - [ ] Digital Signatures: 
-	- [x] Digital Signatures 
+	- [ ] Digital Signatures 
 	- [ ] Elgamal Digital Signature Scheme 
 	- [ ] NIST Digital Signature Algorithm 
 ### Unit 4

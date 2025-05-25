@@ -2,5 +2,7 @@
   "github-sync",
   "obsidian-icon-shortcodes",
   "templater-obsidian",
-  "remove-newlines"
+  "remove-newlines",
+  "obsidian-excalidraw-plugin",
+  "edge-tts"
 ]

@@ -1,0 +1,14 @@
+### ⚙️ **Rotor Machines**
+- **Electromechanical encryption devices** used mainly in the early 20th century.
+- Encrypt plaintext by **substituting letters** using **rotating wheels (rotors)**.
+- Each rotor performs a **monoalphabetic substitution**, but changes with each keystroke.
+- After each key press, the rotor(s) rotate, changing the substitution pattern.
+- Provide **polyalphabetic substitution**, increasing encryption strength.
+- Famous example: **Enigma machine** used by Germany during **World War II**.
+- Include components like:
+	- **Keyboard** (for input)
+	- **Rotors** (with internal wiring)
+	- **Reflector** (bounces signal back through rotors)
+	- **Lampboard** (for output)
+- Broken by **Allied cryptanalysts**, notably at **Bletchley Park**.
+- Key idea: **mechanical movement + electrical paths = complex cipher**.

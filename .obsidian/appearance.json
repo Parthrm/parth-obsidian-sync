@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "MCL Multi Column"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Encore"
 }
