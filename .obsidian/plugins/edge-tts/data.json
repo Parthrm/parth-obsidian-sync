@@ -1,7 +1,7 @@
 {
   "selectedVoice": "en-US-AvaNeural",
   "customVoice": "",
-  "playbackSpeed": 1,
+  "playbackSpeed": 1.5,
   "showNotices": true,
   "showStatusBarButton": true,
   "showMenuItems": true,
@@ -11,8 +11,8 @@
   "replaceSpacesInFilenames": false,
   "overrideAmpersandEscape": false,
   "floatingPlayerPosition": {
-    "x": 411,
-    "y": 496
+    "x": 1053.997314453125,
+    "y": 671.9970092773438
   },
   "disablePlaybackControlPopover": false,
   "enableReplayOption": true

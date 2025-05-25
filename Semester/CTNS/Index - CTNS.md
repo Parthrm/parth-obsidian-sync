@@ -19,15 +19,15 @@
 	- [x] The Strength of DE
 	- [x] Block Cipher Design principles
 - [ ] Advanced Encryption Standard: 
-	- [ ] [[7 - AES Structure]]
+	- [x] [[7 - AES Structure]]
 ### Unit 2
 - [ ] Block Cipher Operation: 
-	- [ ] Multiple Encryption and Triple DES 
-	- [ ] Electronic Code Book 
-	- [ ] Cipher Block Chaining Mode 
-	- [ ] Cipher Feedback Mode 
-	- [ ] Output Feedback Mode 
-	- [ ] Counter Mode 
+	- [x] [[1 - Multiple Encryption and Triple DES]]
+	- [ ] [[2 - Electronic Code Book]]
+	- [ ]  [[3 - Cipher Block Chaining Mode]]
+	- [ ]  [[4 - Cipher Feedback Mode]]
+	- [ ]  [[5 - Output Feedback Mode]]
+	- [ ] [[6 - Counter Mode]]
 - [ ] Stream Cipher 
 	- [ ] RC4 
 - [ ] Public Key Cryptography: 
