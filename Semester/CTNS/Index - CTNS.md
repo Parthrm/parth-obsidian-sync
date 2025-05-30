@@ -6,7 +6,7 @@
 		- [x] Caesar Cipher
 		- [x] Monoalphabetic Ciphers
 		- [x] Playfair Cipher
-		- [ ] Hill Cipher
+		- [x] Hill Cipher
 		- [x] Polyalphabetic Ciphers
 		- [x] One-Time Pad
 	- [x] [[3 - Transposition Techniques]]
@@ -21,54 +21,54 @@
 - [ ] Advanced Encryption Standard: 
 	- [x] [[7 - AES Structure]]
 ### Unit 2
-- [ ] Block Cipher Operation: 
+- [x] Block Cipher Operation: 
 	- [x] [[1 - Multiple Encryption and Triple DES]]
 	- [ ] [[2 - Electronic Code Book]]
 	- [ ]  [[3 - Cipher Block Chaining Mode]]
 	- [ ]  [[4 - Cipher Feedback Mode]]
 	- [ ]  [[5 - Output Feedback Mode]]
 	- [ ] [[6 - Counter Mode]]
-- [ ] Stream Cipher 
+- [x] Stream Cipher 
 	- [ ] RC4 
-- [ ] Public Key Cryptography: 
-	- [ ] Principles of Public-Key Cryptosystems 
-	- [ ] The RSA Algorithm 
+- [x] Public Key Cryptography: 
+	- [x] Principles of Public-Key Cryptosystems 
+	- [x] The RSA Algorithm 
 - [ ] Other Public key CryptoSystems: 
-	- [ ] Diffie-Hellman Key Exchange 
-	- [ ] Elgamal Cryptographic System 
+	- [x] Diffie-Hellman Key Exchange 
+	- [ ] Elgamal Cryptographic System ❌
 ### Unit 3
-- [ ] Cryptographic Hash Functions: 
-	- [ ] Applications of CHF 
-	- [ ] Two Simple Hash Functions 
-	- [ ] Requirements and Security 
-	- [ ] Secure Hash Algorithm (SHA-512) 
-- [ ] Message Authentication Codes: 
-	- [ ] Message Authentication Requirements 
-	- [ ] Message Authentication Functions 
-	- [ ] Requirements for MACs 
-	- [ ] Security of MACs 
-	- [ ] MACs based on Hash Functions (HMAC) 
+- [x] Cryptographic Hash Functions: 
+	- [x] Applications of CHF 
+	- [x] Two Simple Hash Functions 
+	- [x] Requirements and Security 
+	- [x] Secure Hash Algorithm (SHA-512) 
+- [x] Message Authentication Codes: 
+	- [x] Message Authentication Requirements 
+	- [x] Message Authentication Functions 
+	- [x] Requirements for MACs 
+	- [x] Security of MACs 
+	- [x] MACs based on Hash Functions (HMAC) 
 - [ ] Digital Signatures: 
-	- [ ] Digital Signatures 
+	- [x] Digital Signatures 
 	- [ ] Elgamal Digital Signature Scheme 
 	- [ ] NIST Digital Signature Algorithm 
 ### Unit 4
-- [ ] Key Management and Distribution: 
-	- [ ] Symmetric Key Distribution using Symmetric Encryption 
-	- [ ] Symmetric Key Distribution using Asymmetric Encryption 
-	- [ ] Distribution of Public Keys 
-	- [ ] X 509 Certificates 
-	- [ ] Public key infrastructure 
-	- [ ] Kerberos 
-- [ ] Transport Level Security: 
+- [x] Key Management and Distribution: 
+	- [x] Symmetric Key Distribution using Symmetric Encryption 
+	- [x] Symmetric Key Distribution using Asymmetric Encryption 
+	- [x] Distribution of Public Keys 
+	- [x] X 509 Certificates 
+	- [x] Public key infrastructure 
+	- [x] Kerberos 
+- [x] Transport Level Security: 
 	- [ ] Web Security Considerations 
 	- [ ] Secure Socket layer 
 	- [ ] HTTPS 
 	- [ ] Secure Shell (SSH) 
-- [ ] Electronic Mail Security: 
+- [x] Electronic Mail Security: 
 	- [ ] Pretty Good Privacy 
 	- [ ] S/MIME 
-- [ ] Wireless Network Security: 
+- [x] Wireless Network Security: 
 	- [ ] Wireless Security 
 	- [ ] IEEE 802.11 wireless LAN overview 
 	- [ ] IEEE 802.11i Wireless LAN Security

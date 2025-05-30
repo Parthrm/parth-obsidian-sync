@@ -358,7 +358,7 @@ Certificates can be revoked before expiry for reasons like:
 
 ---
 
-### 🔐 **KERBEROS**
+# 🔐 **KERBEROS**
 
 ### ✅ Definition:
 **Kerberos** is a secure network authentication protocol that uses secret-key cryptography to authenticate client-server applications. It allows nodes to prove their identity over non-secure networks in a secure manner.
@@ -397,7 +397,7 @@ Kerberos works on the basis of “tickets” and a **trusted third party** calle
 2. **Clock Skew** – Inconsistent time between systems can cause ticket rejections.
 3. **Ticket Expiry** – Users may be locked out due to expired tickets.
 4. **Password Guessing** – Weak user passwords can lead to decryption of session keys.
-## 🔁 Version Comparison: Kerberos v4 vs v5
+### 🔁 Version Comparison: Kerberos v4 vs v5
 
 | Feature                        | **Kerberos v4**                      | **Kerberos v5**                               |
 | ------------------------------ | ------------------------------------ | --------------------------------------------- |

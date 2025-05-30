@@ -1,0 +1,81 @@
+
+### UNIT -1
+- [x] **Multimedia:** 
+	- [x] Definitions, 
+	- [x] Where to Use Multimedia, 
+	- [x] Multimedia in Business, 
+	- [x] Multimedia in Schools, 
+	- [x] Multimedia at Home, 
+	- [x] Multimedia in Public Places, 
+	- [x] Virtual Reality, 
+	- [x] Delivering Multimedia, 
+	- [x] CD-ROM, 
+	- [x] DVD, 
+	- [x] Flash Drives, 
+	- [x] Broadband Internet. 
+- [ ] **Making Multimedia** :
+	- [ ] Stages of a Multimedia Project, 
+	- [ ] The Intangibles, 
+	- [ ] Hardware, 
+	- [ ] Software, 
+	- [ ] Authoring Systems. 
+- [ ] **Images:** 
+	- [ ] Making Still Images, 
+	- [ ] Bitmaps, 
+	- [ ] Vector Drawing, 
+	- [ ] Vector Drawn Objects vs. Bitmaps,
+	- [ ] 3-D Drawing and Rendering, 
+	- [ ] Color, 
+	- [ ] File Formats.
+
+### UNIT -2
+- [ ] **Sound:** 
+	- [ ] Digital Audio, 
+	- [ ] MIDI Audio, 
+	- [ ] MIDI vs. Digital Audio, 
+	- [ ] Multimedia System Sounds, 
+	- [ ] Audio File Formats, 
+	- [ ] Vaughan’s Law of Multimedia Minimums, 
+	- [ ] Adding Sound to Project. 
+- [ ] **Animation:** 
+	- [ ] The Power of Motion, 
+	- [ ] Principles of Animation, 
+	- [ ] Animation by Computer, 
+	- [ ] Making Animations that Work
+- [ ] **Video:** 
+	- [ ] Analog Video, 
+	- [ ] Digital Video, 
+	- [ ] Displays, 
+	- [ ] Digital Video Containers, 
+	- [ ] Obtaining Video Clips,
+	- [ ] Shooting and Editing Video.
+
+### UNIT -3
+- [ ] **Planning and Costing:** 
+	- [ ] The Process of Making Multimedia, 
+	- [ ] Scheduling, 
+	- [ ] Estimating, 
+	- [ ] RFPs and Bid Proposals. 
+- [ ] **Designing and Producing:** 
+	- [ ] Designing, 
+	- [ ] Producing. 
+- [ ] **Content and Talent:** 
+	- [ ] Acquiring Content, 
+	- [ ] Acquiring Talent.
+
+### UNIT -4
+- [ ] **The Internet and Multimedia:** 
+	- [ ] Internet History, 
+	- [ ] Internetworking, 
+	- [ ] Multimedia on the Web, 
+	- [ ] Developing for the Web, 
+	- [ ] Text for the Web, 
+	- [ ] Images for the Web, 
+	- [ ] Sound for the Web, 
+	- [ ] Animation for the Web, 
+	- [ ] Video for the Web. 
+- [ ] **Mobile Multimedia:** 
+	- [ ] Digital Revolution Worldwide, 
+	- [ ] Mobile Hardware, 
+	- [ ] Connection, 
+	- [ ] Mobile Operating Systems.
